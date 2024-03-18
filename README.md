@@ -1,1 +1,1 @@
-A C program that implements a server-client model, where the server listens for requests from clients, performs the requested operation, and sends the result back to the client. The program uses shared memory for communication between the server and clients
+A C program that implements a server-client model, where the server listens for requests from clients, performs the requested operation, and sends the result back to the client. The program uses shared memory for communication between the server and clients.
